@@ -1,0 +1,18 @@
+# NEVER commit .env - contains sensitive credentials
+.env
+
+# Composer dependencies
+/vendor/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+*.tmp
+
+# IDE
+.idea/
+*.swp
+*.swo
