@@ -2634,15 +2634,10 @@ h1, h2, h3, h4, h5, h6 {
 
   .exp-timeline {
     display: flex;
-    flex-direction: row;
-    overflow-x: auto;
-    overflow-y: hidden;
-    padding: 6px 2px 14px;
+    flex-direction: column;
+    padding: 0;
     gap: 12px;
-    scrollbar-width: thin;
-    -webkit-overflow-scrolling: touch;
     width: 100%;
-    max-width: 100%;
     margin-bottom: 0.5rem;
   }
 
@@ -2651,9 +2646,7 @@ h1, h2, h3, h4, h5, h6 {
     border-radius: var(--radius-sm);
     background: var(--bg);
     padding: 14px 16px;
-    min-width: 220px;
-    max-width: 260px;
-    flex-shrink: 0;
+    width: 100%;
     cursor: pointer;
     transition: all 0.25s var(--ease);
   }
