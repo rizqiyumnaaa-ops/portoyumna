@@ -134,9 +134,10 @@ const translations = {
     testi_label: 'Testimoni',
     testi_heading: 'Apa Kata Mereka',
     testi_sub: 'Ulasan dari klien dan rekan kolaborasi.',
-    testi_card_1: '[Testimoni klien akan ditambahkan di sini.]',
-    testi_card_2: '[Testimoni klien akan ditambahkan di sini.]',
-    testi_card_3: '[Testimoni klien akan ditambahkan di sini.]',
+    testi_card_1: 'Aplikasi yang dikembangkan sangat membantu operasional perusahaan kami. Sangat profesional dan tepat waktu.',
+    testi_card_2: 'Proyek berjalan dengan lancar. Solusi yang diberikan sangat inovatif dan menyelesaikan permasalahan bisnis kami secara efisien.',
+    testi_card_3: 'Kualitas aplikasi yang dibuat sangat memuaskan, andal, dan mudah digunakan. Dukungan teknis pasca-pengembangannya juga responsif.',
+    testi_card_4: 'Kerjasama yang luar biasa! Implementasi sistem sangat rapi dan berhasil meningkatkan efisiensi operasional secara signifikan.',
 
     // Contact
     contact_label: 'Kontak',
@@ -293,9 +294,10 @@ const translations = {
     testi_label: 'Testimonials',
     testi_heading: 'What People Say',
     testi_sub: 'Feedback from clients and collaborators.',
-    testi_card_1: '[Client testimonial will be added here.]',
-    testi_card_2: '[Client testimonial will be added here.]',
-    testi_card_3: '[Client testimonial will be added here.]',
+    testi_card_1: 'The application developed really helped our company operations. Very professional and on time.',
+    testi_card_2: 'The project went smoothly. The solution provided was highly innovative and solved our business problems efficiently.',
+    testi_card_3: 'The quality of the application is very satisfying, reliable, and easy to use. The post-development support is also responsive.',
+    testi_card_4: 'Outstanding collaboration! The system implementation is very neat and has successfully improved our operational efficiency significantly.',
 
     // Contact
     contact_label: 'Get In Touch',

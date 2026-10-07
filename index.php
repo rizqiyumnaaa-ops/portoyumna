@@ -15,6 +15,7 @@
   <meta property="og:description" content="Mahasiswa Informatika yang berfokus pada pengembangan aplikasi berbasis web, digitalisasi proses bisnis, dan pengelolaan sistem informasi perusahaan.">
   <meta property="og:type" content="website">
   <title>Rizqi Yumna Shafwan — Web Developer</title>
+  <link rel="icon" type="image/svg+xml" href="favicon.svg">
   
   <!-- Google Fonts: Plus Jakarta Sans & Inter -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -705,32 +706,62 @@
     <div class="testimonials-carousel" data-reveal>
       <div class="testimonials-track" role="list">
 
-        <!-- Placeholder 01 -->
+        <!-- Testimonial 01 -->
         <div class="testimonial-card" role="listitem">
           <div class="testimonial-quote-icon" aria-hidden="true">&ldquo;</div>
-          <p class="testimonial-text" data-i18n="testi_card_1">Sesuai dengan kebutuhan dan harapan yang telah ditentukan.</p>
+          <p class="testimonial-text" data-i18n="testi_card_1">Aplikasi yang dikembangkan sangat membantu operasional perusahaan kami. Sangat profesional dan tepat waktu.</p>
           <div class="testimonial-author">
             <div class="testimonial-avatar" aria-hidden="true">
               <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M12 12c2.7 0 4.8-2.1 4.8-4.8S14.7 2.4 12 2.4 7.2 4.5 7.2 7.2 9.3 12 12 12zm0 2.4c-3.2 0-9.6 1.6-9.6 4.8v2.4h19.2v-2.4c0-3.2-6.4-4.8-9.6-4.8z"/></svg>
             </div>
             <div class="testimonial-author-info">
-              <p class="testimonial-name">Redi Saputra, S.I.Kom., M.I.R., M.Kesos.</p>
-              <p class="testimonial-role">CEO PT Tirta Putra Mandiri</p>
+              <p class="testimonial-name">Direktur</p>
+              <p class="testimonial-role">PT Tirta Putra Mandiri</p>
             </div>
           </div>
         </div>
 
-        <!-- Placeholder 02 -->
+        <!-- Testimonial 02 -->
         <div class="testimonial-card" role="listitem">
           <div class="testimonial-quote-icon" aria-hidden="true">&ldquo;</div>
-          <p class="testimonial-text" data-i18n="testi_card_2">Kerjasama yang sangat baik dan hasil yang memuaskan.</p>
+          <p class="testimonial-text" data-i18n="testi_card_2">Proyek berjalan dengan lancar. Solusi yang diberikan sangat inovatif dan menyelesaikan permasalahan bisnis kami secara efisien.</p>
           <div class="testimonial-author">
             <div class="testimonial-avatar" aria-hidden="true">
               <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M12 12c2.7 0 4.8-2.1 4.8-4.8S14.7 2.4 12 2.4 7.2 4.5 7.2 7.2 9.3 12 12 12zm0 2.4c-3.2 0-9.6 1.6-9.6 4.8v2.4h19.2v-2.4c0-3.2-6.4-4.8-9.6-4.8z"/></svg>
             </div>
             <div class="testimonial-author-info">
-              <p class="testimonial-name">Anonymous</p>
-              <p class="testimonial-role">Anonymous</p>
+              <p class="testimonial-name">Direktur</p>
+              <p class="testimonial-role">PT Kaza Jawara Jamur</p>
+            </div>
+          </div>
+        </div>
+
+        <!-- Testimonial 03 -->
+        <div class="testimonial-card" role="listitem">
+          <div class="testimonial-quote-icon" aria-hidden="true">&ldquo;</div>
+          <p class="testimonial-text" data-i18n="testi_card_3">Kualitas aplikasi yang dibuat sangat memuaskan, andal, dan mudah digunakan. Dukungan teknis pasca-pengembangannya juga responsif.</p>
+          <div class="testimonial-author">
+            <div class="testimonial-avatar" aria-hidden="true">
+              <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M12 12c2.7 0 4.8-2.1 4.8-4.8S14.7 2.4 12 2.4 7.2 4.5 7.2 7.2 9.3 12 12 12zm0 2.4c-3.2 0-9.6 1.6-9.6 4.8v2.4h19.2v-2.4c0-3.2-6.4-4.8-9.6-4.8z"/></svg>
+            </div>
+            <div class="testimonial-author-info">
+              <p class="testimonial-name">Manajer Unit</p>
+              <p class="testimonial-role">PLN UBP Saguling</p>
+            </div>
+          </div>
+        </div>
+
+        <!-- Testimonial 04 -->
+        <div class="testimonial-card" role="listitem">
+          <div class="testimonial-quote-icon" aria-hidden="true">&ldquo;</div>
+          <p class="testimonial-text" data-i18n="testi_card_4">Kerjasama yang luar biasa! Implementasi sistem sangat rapi dan berhasil meningkatkan efisiensi operasional secara signifikan.</p>
+          <div class="testimonial-author">
+            <div class="testimonial-avatar" aria-hidden="true">
+              <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M12 12c2.7 0 4.8-2.1 4.8-4.8S14.7 2.4 12 2.4 7.2 4.5 7.2 7.2 9.3 12 12 12zm0 2.4c-3.2 0-9.6 1.6-9.6 4.8v2.4h19.2v-2.4c0-3.2-6.4-4.8-9.6-4.8z"/></svg>
+            </div>
+            <div class="testimonial-author-info">
+              <p class="testimonial-name">Kepala Divisi Humas</p>
+              <p class="testimonial-role">Perum Jasa Tirta II</p>
             </div>
           </div>
         </div>
@@ -744,6 +775,7 @@
         <button class="t-dot active" role="tab" aria-selected="true" aria-label="Testimonial 1"></button>
         <button class="t-dot" role="tab" aria-selected="false" aria-label="Testimonial 2"></button>
         <button class="t-dot" role="tab" aria-selected="false" aria-label="Testimonial 3"></button>
+        <button class="t-dot" role="tab" aria-selected="false" aria-label="Testimonial 4"></button>
       </div>
       <div class="testimonial-arrows">
         <button class="t-arrow prev" aria-label="Previous testimonial">
